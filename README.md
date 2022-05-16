@@ -22,3 +22,4 @@ Todas las unidades eléctricas y magnéticas utilizan varias combinaciones de un
 Notación científica: 
 es una manera de escribir los números de manera abreviada, facilitando el uso de cantidades muy grandes o muy pequeñas. Es usada en el campo de la electricidad y la electrónica. A continuacin vemos un ejemplo:
 
+![](
