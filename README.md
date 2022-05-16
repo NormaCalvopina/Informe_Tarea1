@@ -39,15 +39,15 @@ A continuación se explicará mediante un gráfico los concept de corriente, vol
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20165545.png)
 
-Fuente de voltaje:
+### Fuente de voltaje:
 
 Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida por un circuito. La fuente de voltaje ideal no existe, pero puede ser aproximada en la práctica. 
 
-Baterías:
+### Batería: 
 
 Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica. Las baterías se componen, por lo general, de múltiples celdas eléctricamente conectadas entre sí en su interior. La forma en que se conectan las celdas y su tipo determinan el voltaje y la capacidad de la batería. 
 
-Fuente de corriente:
+### Fuente  de Corriente:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20171348.png)
 
@@ -57,7 +57,7 @@ En cuanto a los resistores, estos poseen un código de colores para saber el val
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20180307.png)
 
-También existen resistores variables como por ejemplo los potenciómetros lineales y ajustables.
+También existen resistores variables como por ejemplo los potenciómetros lineales y ajustables .
 
 Potenciómetro lineal:
 
@@ -67,6 +67,24 @@ Potenciómetro ajustable:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20180546.png)
 
+### CIRCUITOS ELÉCTRICOS
 
+Un circuito eléctrico es un camino por donde pasa la corriente eléctrica y se compone por:
+
+Un generador de corriente: capaz de crear una diferencia de potencial entre dos espacios de su estructura llamadas polos.
+
+Un conductor de conexión: es aquel que permite unir dichos polos. Normalmente el conductor más empleado son los cables formados por un elemento metálico, es decir, por hilos de cobre.
+
+Dispositivos de protección: se utilizan fusibles y cortacircuitos para crear deliberadamente un circuito abierto cuando la corriente excede una cantidad específica de amperes a causa de un funcionamiento defectuoso u otra condición anormal presente en un circuito.
+
+Alambres:
+
+Son la forma más común de material conductor utilizado. Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre estándar. Conforme el número de calibre se incrementa, el diámetro del alambre disminuye.
+
+### MEDICIONES DE CIRCUITOS BÁSICAS
+
+Para la medición de la corriente:
+
+Tener  en cuenta que cuando se quiere medir la corriente en un circuito debe ser en serie:
 
 
