@@ -15,4 +15,9 @@ Conocer los conceptos de voltaje, corriente y resistencia para aplicarlos en la 
 
 2. MARCO TEÓRICO
 
+Las unidades fundamentales del sistema internacional son siete y pueden estar expresadas como combinación de unidades fundamentales y complementarias. 
+Las unidades fundamentales son el Metro (m), Kilogramo (kg), Tiempo (s), Amperio (A), Kelvin (K), Candela (cd), Mol (mol). Mientras que las unidades complementarias son el Radián (r) y el Esteradian (sr).
+Todas las unidades eléctricas y magnéticas utilizan varias combinaciones de unidades fundamentales  en sus definiciones y por esta razón se llaman  unidades derivadas. Un ejemplo de una unidad derivada es el voltaje (V).
 
+Notación científica: 
+es una manera de escribir los números de manera abreviada, facilitando el uso de cantidades muy grandes o muy pequeñas. Es usada en el campo de la electricidad y la electrónica.
