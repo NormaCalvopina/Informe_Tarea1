@@ -16,7 +16,7 @@ Conocer los conceptos de voltaje, corriente y resistencia para aplicarlos en la 
 
 2. MARCO TEÓRICO
 
-## Acerca del capíyulo 1:
+## Acerca del capítulo 1:
 
 Las unidades fundamentales del sistema internacional son siete y pueden estar expresadas como combinación de unidades fundamentales y complementarias.
 Las unidades fundamentales son el Metro (m), Kilogramo (kg), Tiempo (s), Amperio (A), Kelvin (K), Candela (cd), Mol (mol). Mientras que las unidades complementarias son el Radián (r) y el Esteradian (sr).
@@ -35,7 +35,7 @@ A veces es necesario convertir la cantidad de una unidad que tiene un prefijo m�
 
 Para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
 Como se sabe, un electrón es la partícula más pequeña que presenta una carga eléctrica negativa. Cuando en un material está presente un exceso de electrones, existe una carga eléctrica negativa neta. Cuando hay deficiencia de electrones, existe una carga eléctrica positiva.
-A continuación se explicará mediante un gráfico los concept de corriente, voltaje y resist.
+A continuación se explicará mediante un gráfico los concept de corriente, voltaje y resistencia.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20165545.png)
 
@@ -52,4 +52,7 @@ Fuente de corriente:
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20171348.png)
 
 En cuanto a los resistores, estos poseen un código de colores para saber el valor de la resistencia y la tolerancia. 
+
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20175854.png)
+
 
