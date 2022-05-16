@@ -20,4 +20,5 @@ Las unidades fundamentales son el Metro (m), Kilogramo (kg), Tiempo (s), Amperio
 Todas las unidades eléctricas y magnéticas utilizan varias combinaciones de unidades fundamentales  en sus definiciones y por esta razón se llaman  unidades derivadas. Un ejemplo de una unidad derivada es el voltaje (V).
 
 Notación científica: 
-es una manera de escribir los números de manera abreviada, facilitando el uso de cantidades muy grandes o muy pequeñas. Es usada en el campo de la electricidad y la electrónica.
+es una manera de escribir los números de manera abreviada, facilitando el uso de cantidades muy grandes o muy pequeñas. Es usada en el campo de la electricidad y la electrónica. A continuacin vemos un ejemplo:
+
