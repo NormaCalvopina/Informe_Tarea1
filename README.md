@@ -93,5 +93,5 @@ Para la medición del voltaje:
 
 Tener en cuenta que para medir el voltaje se debe conectar en paralelo:
 
-
+![](
 
