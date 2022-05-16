@@ -47,7 +47,7 @@ Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualqui
 
 Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica. Las baterías se componen, por lo general, de múltiples celdas eléctricamente conectadas entre sí en su interior. La forma en que se conectan las celdas y su tipo determinan el voltaje y la capacidad de la batería. 
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20184913.png)
 
 ### Fuente  de Corriente:
 
