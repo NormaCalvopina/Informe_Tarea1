@@ -93,5 +93,10 @@ Para la medición del voltaje:
 
 Tener en cuenta que para medir el voltaje se debe conectar en paralelo:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20183317.png)
 
+Para la medición de la resistencia:
+
+Primero se debe cortar la energía eléctrica y se desconecta uno o ambos extremos del resistor del circuito  y luego se conecta el resistor  a través del resistor:
+
+![](
