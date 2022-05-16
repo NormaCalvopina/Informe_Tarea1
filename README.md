@@ -4,7 +4,7 @@
 
 1. OBJETIVOS
 
-Objetivo Gener
+Objetivo General:
 
 Conocer sobre los temas del capitulo 1 y 2 del Libro “Principios de Circuitos eléctricos” por Floyd (Octava edición) y desarrollar los problemas planteados aplicando los conocimientos adquiridos en las clases.
 
@@ -54,5 +54,14 @@ Fuente de corriente:
 En cuanto a los resistores, estos poseen un código de colores para saber el valor de la resistencia y la tolerancia. 
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20175854.png)
+
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20180307.png)
+
+También existen resistores variables como por ejemplo los potenciómetros lineales y ajustables.
+
+Potenciómetro lineal:
+
+
+Potenciómetro ajustable:
 
 
