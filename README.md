@@ -99,4 +99,9 @@ Para la medición de la resistencia:
 
 Primero se debe cortar la energía eléctrica y se desconecta uno o ambos extremos del resistor del circuito  y luego se conecta el resistor  a través del resistor:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20184004.png)
+
+### MULTÍMETROS DIGITALES
+
+Es un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado ya que posee mejor precisión, mayor facilidad de lectura, y mayor confiabilidad que muchos medidores analógicos.
+
