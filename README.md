@@ -61,7 +61,9 @@ También existen resistores variables como por ejemplo los potenciómetros linea
 
 Potenciómetro lineal:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20180532.png)
 
 Potenciómetro ajustable:
+
 
 
