@@ -87,4 +87,11 @@ Para la medición de la corriente:
 
 Tener  en cuenta que cuando se quiere medir la corriente en un circuito debe ser en serie:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20182322.png)
+
+Para la medición del voltaje:
+
+Tener en cuenta que para medir el voltaje se debe conectar en paralelo:
+
+
 
