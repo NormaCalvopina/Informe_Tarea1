@@ -270,4 +270,8 @@ Cobre y Plata
 
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20212451.png)
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
+
 
