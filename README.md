@@ -310,5 +310,9 @@ Inducción electromagnética
 
 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20214658.png)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
 
 
