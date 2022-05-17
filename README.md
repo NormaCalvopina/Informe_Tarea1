@@ -154,3 +154,4 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (a) 0.0002
 
+
