@@ -228,5 +228,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (d) El número de kilowatts en 155 miliwatts
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20210635.png)
+
+30. Realice las siguientes operaciones:
+
 
 
