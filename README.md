@@ -314,5 +314,9 @@ Inducción electromagnética
 
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20214826.png)
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
 
 
