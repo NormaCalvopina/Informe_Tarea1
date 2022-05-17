@@ -122,7 +122,9 @@ Es un instrumento electrónico que combina medidores para efectuar la medición 
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20184621.png)
 
-## Resolución de problemas caopítulo 1
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+## Resolución de problemas capitulo 1
 
 #### Sección 1-1
 
@@ -232,5 +234,30 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 30. Realice las siguientes operaciones:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20210821.png)
+
+## Resolución de problemas capitulo 2
+
+#### Sección 2-1 
+
+2. Defina el término átomo:
+
+Un átomo es la partícula más pequeña de un elemento que conserva las características únicas del elemento
+
+4. Defina el término número atómico
+
+El número atómico es el número de protones presentes en el núcleo
+
+6. ¿Qué es un electrón libre?
+
+Un electrón libre es un electrón localizado en la capa externa y que ha escapado del átomo padre
+
+8. Nombre dos materiales conductores
+
+Cobre y Plata
+
+#### Sección 2-2 Carga eléctrica
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
 
