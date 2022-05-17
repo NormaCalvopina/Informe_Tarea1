@@ -278,3 +278,7 @@ Cobre y Plata
 
 10. Determine la corriente en cada uno de los siguientes casos: 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20212803.png)
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
