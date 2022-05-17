@@ -204,5 +204,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20205441.png)
+
+26. Exprese cada cantidad en notación de ingeniería:
+
 
 
