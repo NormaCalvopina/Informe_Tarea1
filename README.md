@@ -290,6 +290,8 @@ Cobre y Plata
 
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20213657.png)
+
 
 
 
