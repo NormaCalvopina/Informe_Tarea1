@@ -282,3 +282,10 @@ Cobre y Plata
 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20213027.png)
+
+14.  5.74x10^17   electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+
+
+
