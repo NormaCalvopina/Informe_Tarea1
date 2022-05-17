@@ -274,4 +274,7 @@ Cobre y Plata
 
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20212603.png)
+
+10. Determine la corriente en cada uno de los siguientes casos: 
 
