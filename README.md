@@ -292,6 +292,14 @@ Cobre y Plata
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20213657.png)
 
+#### Sección 2-4 Fuentes de voltaje y de corriente
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+Inducción electromagnética
+
+20. Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?
+
 
 
 
