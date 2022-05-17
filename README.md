@@ -376,3 +376,8 @@ Tomar en cuenta que para algunos ejercicios del capitulo 2 fue necesario conocer
 
 Es necesario leer y comprender cada tema explicado anteriormente para tener mayor facilidad de desarrollar los problemas planteados. 
 
+
+6. BIBLIOGRAFIA:
+
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson Educación. Serway
+
