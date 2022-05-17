@@ -192,4 +192,3 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
-
