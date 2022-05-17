@@ -170,3 +170,4 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
+![](
