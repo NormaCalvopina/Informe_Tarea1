@@ -43,6 +43,8 @@ A continuación se explicará mediante un gráfico los concept de corriente, vol
 
 Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida por un circuito. La fuente de voltaje ideal no existe, pero puede ser aproximada en la práctica. 
 
+![](
+
 ### Batería: 
 
 Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica. Las baterías se componen, por lo general, de múltiples celdas eléctricamente conectadas entre sí en su interior. La forma en que se conectan las celdas y su tipo determinan el voltaje y la capacidad de la batería. 
