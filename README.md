@@ -334,3 +334,7 @@ Solución: La resistencia que tiene cada terminal es de 500Ω
 
 Solución:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20215648.png)
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
