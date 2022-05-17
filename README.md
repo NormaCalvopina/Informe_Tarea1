@@ -140,3 +140,11 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (a) 1/500 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20200312.png)
+
+(b) 1/2000 
+
+
+
+(c) 1/5,000,000
+
