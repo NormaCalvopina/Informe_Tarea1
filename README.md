@@ -224,5 +224,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (c) El número de megaohms en 0.02 kilohms
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20210347.png)
+
+(d) El número de kilowatts en 155 miliwatts
+
 
 
