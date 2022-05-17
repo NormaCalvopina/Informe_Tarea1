@@ -324,3 +324,9 @@ Solución: La resistencia que tiene cada terminal es de 500Ω
 
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20215326.png)
+
+#### Sección  2-6 El circuito eléctrico
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
+
