@@ -38,7 +38,7 @@ La electricidad estática es la presencia de una carga positiva o negativa neta 
 
 #### Un coulomb es la carga total poseída por 
 
-
+![](
 
 Para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
 Como se sabe, un electrón es la partícula más pequeña que presenta una carga eléctrica negativa. Cuando en un material está presente un exceso de electrones, existe una carga eléctrica negativa neta. Cuando hay deficiencia de electrones, existe una carga eléctrica positiva.
