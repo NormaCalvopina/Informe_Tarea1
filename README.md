@@ -6,13 +6,15 @@
 
 Objetivo General:
 
-Conocer sobre los temas del capitulo 1 y 2 del Libro “Principios de Circuitos eléctricos” por Floyd (Octava edición) y desarrollar los problemas planteados aplicando los conocimientos adquiridos en las clases.
+Conocer sobre los temas del capitulo 1 y 2 del Libro “Principios de Circuitos eléctricos” por Floyd (Octava edición) y desarrollar los problemas planteados aplicando los conocimientos adquiridos a lo largo de la lectura de los dos capitulos.
 
 Objetivos específicos:
 
-Explicar brevemente sobre  las unidades de medición , notación cientifica, notación científica para la ingeniería  ; para resolver los problemas propuestos en el capítulo 1.        
+Explicar resumidamente sobre las unidades de medición, notación científica y notación científica para la ingeniería; para resolver los problemas propuestos en el capítulo 1        
 
 Conocer los conceptos de voltaje, corriente y resistencia para aplicarlos en la resolución de los problemas presentados en el capítulo 2
+
+Aprender a manejar las escalas del multímetro digital para poder resolver problemas basados en la utilización del este instrumento.
 
 2. MARCO TEÓRICO
 
@@ -314,7 +316,7 @@ Inducción electromagnética
 
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 
-![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20214826.png)
+![](
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
@@ -345,4 +347,16 @@ Solución: Hay corrientes a través del resistor R5
 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20220010.png)
+
+
+
+
+
+4. VIDEO
+
+
+
+5. CONCLUSIONES
+
+
 
