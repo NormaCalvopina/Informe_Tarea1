@@ -188,6 +188,8 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 16. Exprese cada número en notación de ingeniería:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20204003.png)
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
 
