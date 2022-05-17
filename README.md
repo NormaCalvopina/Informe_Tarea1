@@ -350,15 +350,21 @@ Solución: Hay corrientes a través del resistor R5
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20220010.png)
 
+#### Sección 2-7 Mediciones de circuitos básicas
 
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
 
 
 4. VIDEO
 
-
+https://youtu.be/oqMfTxRIyjA
 
 5. CONCLUSIONES
 
+Mediante el análisis de cada tema se procedió a realizar los ejercicios planteados de cada capítulo y se obtuvo las respuestas correspondientes.
 
+Tomar en cuenta que para algunos ejercicios del capitulo 2 fue necesario conocer la utilización del multímetro digital para obtener el resultado.
+
+Es necesario leer y comprender cada tema explicado anteriormente para tener mayor facilidad de desarrollar los problemas planteados. 
 
