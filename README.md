@@ -174,3 +174,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 10. Efectúe las siguientes sustracciones:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20202536.png)
+
+12. Realice las siguientes divisiones:
+
+![](
+
