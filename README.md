@@ -318,5 +318,9 @@ Inducción electromagnética
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20215111.png)
 
+Solución: La resistencia que tiene cada terminal es de 500Ω
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue: 
 
