@@ -350,10 +350,18 @@ Solución: Hay corrientes a través del resistor R5
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20220010.png)
 
+
 #### Sección 2-7 Mediciones de circuitos básicas
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-17%20031717.png)
+
+Solucion: según la figura, está midiendo 100 ohms
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 
 4. VIDEO
