@@ -43,7 +43,7 @@ A continuación se explicará mediante un gráfico los concept de corriente, vol
 
 Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida por un circuito. La fuente de voltaje ideal no existe, pero puede ser aproximada en la práctica. 
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20190808.png)
 
 ### Batería: 
 
