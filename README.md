@@ -166,4 +166,7 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20202050.png)
+
+8. Exprese cada número de los siguientes como un número decimal regular:
+
