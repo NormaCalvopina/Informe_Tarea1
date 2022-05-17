@@ -132,5 +132,11 @@ La unida fundamental eléctrica es el amperio
 
 Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posible, incluidos sus símbolos, unidades, y símbolos de unidad.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20200049.png)
 
+#### Sección 1-2 Notación Científica
+
+2.- Exprese cada número fraccionario en notación científica:
+
+(a) 1/500 
 
