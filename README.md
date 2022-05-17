@@ -38,6 +38,10 @@ La electricidad estática es la presencia de una carga positiva o negativa neta 
 
 #### Un coulomb es la carga total poseída por 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20193457.png)
+
+La carga total Q, expresada en coulombs, de un número dado de electrones se establece en la fórmula siguiente:
+
 ![](
 
 Para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
