@@ -148,3 +148,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (c) 1/5,000,000
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20200431.png)
+
+4.- Exprese cada uno de los números siguientes en notación científica:
+
+(a) 0.0002
+
