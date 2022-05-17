@@ -260,4 +260,8 @@ Cobre y Plata
 
 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20212024.png)
+
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
 
