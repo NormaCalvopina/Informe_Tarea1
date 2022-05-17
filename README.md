@@ -35,7 +35,7 @@ A veces es necesario convertir la cantidad de una unidad que tiene un prefijo m�
 
 Para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
 Como se sabe, un electrón es la partícula más pequeña que presenta una carga eléctrica negativa. Cuando en un material está presente un exceso de electrones, existe una carga eléctrica negativa neta. Cuando hay deficiencia de electrones, existe una carga eléctrica positiva.
-A continuación se explicará mediante un gráfico los concept de corriente, voltaje y resistencia.
+A continuación se explicará mediante un gráfico los conceptos de  voltaje, corriente y resistencia:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20165545.png)
 
