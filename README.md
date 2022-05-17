@@ -264,4 +264,10 @@ Cobre y Plata
 
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20212141.png)
+
+#### Sección 2-3 Voltaje, corriente y resistencia
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
 
