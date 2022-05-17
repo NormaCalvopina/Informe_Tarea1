@@ -216,4 +216,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 (a) El número de microamperes en 1 miliampere
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20210049.png)
+
+(b) El número de milivolts en 0.05 kilovolts
+
+
 
