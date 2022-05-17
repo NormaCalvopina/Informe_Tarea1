@@ -300,6 +300,12 @@ Inducción electromagnética
 
 20. Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20214154.png)
+
+#### Sección 2-5 Resistores
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
+
 
 
 
