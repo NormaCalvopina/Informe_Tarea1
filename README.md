@@ -208,5 +208,12 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 26. Exprese cada cantidad en notación de ingeniería:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20205645.png)
+
+#### Sección 1-4 Conversiones de unidades métricas
+
+28. Realice las conversiones indicadas:
+
+(a) El número de microamperes en 1 miliampere
 
 
