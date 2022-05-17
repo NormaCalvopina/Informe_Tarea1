@@ -36,7 +36,7 @@ A veces es necesario convertir la cantidad de una unidad que tiene un prefijo m�
 La carga eléctrica es una propiedad eléctrica de la materia que existe en virtud de exceso o deficiencia de electrones, es simbolizada mediante Q. 
 La electricidad estática es la presencia de una carga positiva o negativa neta en un material. 
 
-#### Un coulomb es la carga total poseída por 
+#### Un coulomb es la carga total poseída por:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20193457.png)
 
@@ -44,7 +44,7 @@ La carga total Q, expresada en coulombs, de un número dado de electrones se est
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20193927.png)
 
-Para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
+Ahora bien, para esta sección se introducen principalmente los conceptos teóricos de corriente, voltaje y resistencia.
 Como se sabe, un electrón es la partícula más pequeña que presenta una carga eléctrica negativa. Cuando en un material está presente un exceso de electrones, existe una carga eléctrica negativa neta. Cuando hay deficiencia de electrones, existe una carga eléctrica positiva.
 A continuación se explicará mediante un gráfico los conceptos de  voltaje, corriente y resistencia:
 
@@ -121,5 +121,16 @@ Primero se debe cortar la energía eléctrica y se desconecta uno o ambos extrem
 Es un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado ya que posee mejor precisión, mayor facilidad de lectura, y mayor confiabilidad que muchos medidores analógicos.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20184621.png)
+
+## Resolución de problemas caopítulo 1
+
+#### Sección 1-1
+
+¿Cuál es la unidad fundamental eléctrica?
+
+La unida fundamental eléctrica es el amperio
+
+Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posible, incluidos sus símbolos, unidades, y símbolos de unidad.
+
 
 
