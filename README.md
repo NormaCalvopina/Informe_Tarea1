@@ -178,5 +178,9 @@ Sin recurrir a la tabla 1-3, enumere tantas cantidades eléctricas como sea posi
 
 12. Realice las siguientes divisiones:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20203515.png)
+
+#### Sección 1-3 Notación de ingeniería y prefijos métricos
+
+14. Exprese cada número en notación de ingeniería:
 
