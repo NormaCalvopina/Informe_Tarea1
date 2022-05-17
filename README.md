@@ -306,6 +306,9 @@ Inducción electromagnética
 
 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
 
+1[](https://github.com/NormaCalvopina/Informe_Tarea1/blob/main/Fotos/Captura%20de%20pantalla%202022-05-16%20214531.png)
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
 
 
